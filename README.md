@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I am a coding pupil
+- 🤔 Study hard in order to enjoy life
+
+Code with your heart and enjoy your life
 <!--
 **Kite327/Kite327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
